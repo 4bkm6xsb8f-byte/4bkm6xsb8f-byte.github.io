@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["N32755YBYH.studio.fhdevelopment.fhwordguess"],
+        "components": [
+          {
+            "/": "/wordguess-support/d/*",
+            "comment": "Daily puzzle #n — opens that day's puzzle (today's, or a past one from the archive)."
+          },
+          {
+            "/": "/wordguess-support/u/*",
+            "comment": "Unlimited round by seed — opens an Unlimited round with the same answer."
+          }
+        ]
+      }
+    ]
+  }
+}
