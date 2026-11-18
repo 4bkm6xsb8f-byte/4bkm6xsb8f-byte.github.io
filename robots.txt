@@ -1,0 +1,5 @@
+# Everything on this domain may be crawled.
+User-agent: *
+Allow: /
+
+Sitemap: https://4bkm6xsb8f-byte.github.io/wordguess-support/sitemap.xml
